@@ -1,0 +1,12 @@
+respuesta 4:
+
+.gitignore, ya que este te permite poder decirle a GIT que archivos ignorar o no
+
+respuesta 5:
+
+git init, este es aquel que te permite poder iniciar un repositorio
+git add, es aquel que añade los archivos (si se puede decir asi)
+git commit, son las diferentes versiones o cambios que le hagas al proyecto o codigo
+git branch, es aquel que te permite crear una rama del proyecto
+git remote add origin, es la conexion remota que apunta al repositorio que haya sido clonado
+git push, es aquel que carga el contenido del repositorio
